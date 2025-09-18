@@ -53,6 +53,24 @@ body {
   color: #670404;
 }
 
+.summary-text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 20px;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #ddd;             
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.summary-text em {
+  color: #670404;         
+  font-style: normal;
+  font-weight: bold;
+}
+
 .carousel {
   position: relative;
   margin: 0 auto;
